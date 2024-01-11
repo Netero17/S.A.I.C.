@@ -88,9 +88,10 @@ with a login userid - `touhid` and password was one of the my secret pass in rob
 ![image](https://github.com/Netero17/S.A.I.C./assets/126668078/0b4059ae-11e4-4e34-a69d-6ee3e391cb26)
 
 
-after taht i tries to find some vulnerability but no luck and no time was left 
+after that i tried to find some vulnerability but no luck and no time was left 
 
 that's all from side sorry couldn't complete the challange
+
 mylearning outcome 
 
 everything i know about networking, hosting, local host, ports, network mapping and many more concepts along the way. learned to use password cracking tools like hydra john and also learned to usse burpsuite for web exploit. I don't even remember how much have i learned in this test.
