@@ -1,4 +1,4 @@
-## first changed network of vm to bridged Adapter in order to connect the vm to internet (why: Bridge mode allows your VM to act as its own device on your network, with its own IP address)
+## first changed network of vm to bridged Adapter in order to connect the vm to internet (why: Bridge mode allows your VM to act as its own device on your network, with its own IP address) and refer to https://www.virtualbox.org/manual/ch06.html#network_bridged
 
 ## found ip address of the web hosting server in guest mode > connection_information : lets say == ipaddr
 ![image](https://github.com/Netero17/S.A.I.C./assets/126668078/c8f731c2-2f3a-4f77-b1b7-3df9ebbcb474)
