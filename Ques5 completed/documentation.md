@@ -60,7 +60,7 @@ Edit the script to configure the following:
 - Ensure proper permissions and authorization for accessing the assignment data source.
 - Customize the script according to your specific requirements and use case.
 - This script is a template and may need adjustments based on the specifics of your environment and use case.
-- 
+  
 # learning outcomes 
 learned a lot about website structure. `
 Gain proficiency in using Python for scripting and automation.
