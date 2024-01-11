@@ -48,7 +48,7 @@ Nmap done: 1 IP address (1 host up) scanned in 129.75 seconds
 
   after cracking the zip file some how a text was transferred to file named backup-cred.mp3 
   
-- lots of uri on robots.txt
+- 4 uri on robots.txt
   on the inspectpage of one of the uri's `/nothing` in robots.txt
 
   found :
