@@ -36,6 +36,7 @@ Nmap done: 1 IP address (1 host up) scanned in 129.75 seconds
 
 ### found :
 - an encrypted zip file named Backup.zip on
+  
   cracked the password of Backup.zip 
 - lots of uri on robots.txt
   on the inspectpage of one of the uri's `/nothing` in robots.txt found :
@@ -47,6 +48,7 @@ password
 diana
 helloworld!
 iloveroot`
+![image](https://github.com/Netero17/S.A.I.C./assets/126668078/c7759aea-610c-4bc5-8df0-45795f4accbf)
 
   
   
