@@ -36,9 +36,19 @@ Nmap done: 1 IP address (1 host up) scanned in 129.75 seconds
 
 ### found :
 - an encrypted zip file named Backup.zip on
+  cracked the password of Backup.zip 
 - lots of uri on robots.txt
 
   on the inspectpage of one of the uri's `/nothing` in robots.txt found :
+`#my secret pass
+xenia
+tux
+freedom
+password
+diana
+helloworld!
+iloveroot`
+
   
   
   
