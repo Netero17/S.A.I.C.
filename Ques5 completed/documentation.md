@@ -39,9 +39,9 @@ The script checks the time until the submission deadline and sends email reminde
 ## Usage
 
 1. Clone the repository.
-2. Install dependencies: `pip install -r requirements.txt`
+2. Install dependencies: `pip install playwright`
 3. Customize the script based on your specific use case, including email server configuration and assignment data source.
-4. Run the script: `python assignment_reminder.py`
+4. Run the script: `script.py`
 
 ## Dependencies
 
@@ -60,3 +60,13 @@ Edit the script to configure the following:
 - Ensure proper permissions and authorization for accessing the assignment data source.
 - Customize the script according to your specific requirements and use case.
 - This script is a template and may need adjustments based on the specifics of your environment and use case.
+- 
+# learning outcomes 
+learned a lot about website structure. `
+Gain proficiency in using Python for scripting and automation.
+Recognize the benefits of automation in repetitive tasks, such as sending email reminders for upcoming assignments.
+Develop knowledge and understanding of web scraping techniques using Playwright.
+Learn how to parse HTML data to extract relevant information.
+also learned to do documentation with this
+
+thankyou all i have learned a lot of things in just few days bcs of this test 
