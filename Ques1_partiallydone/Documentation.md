@@ -5,18 +5,31 @@
 
 ## scanning for all services hosted `sudo nmap -sC -sV -O -p- -oA` , result:
 Nmap scan report for 192.168.29.160
+
 Host is up (0.0025s latency).
+
 Not shown: 65534 filtered tcp ports (no-response)
+
 PORT   STATE SERVICE VERSION
+
 80/tcp open  http    Apache httpd 2.2.22 ((Ubuntu))
+
 |_http-title: Xenia (LinuxFox)
+
 |_http-server-header: Apache/2.2.22 (Ubuntu)
-| http-robots.txt: 5 disallowed entries 
+
+| http-robots.txt: 5 disallowed entries
+
 |_/ange1 /angel1 /nothing /tmp /uploads
+
 Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+
 Device type: bridge|general purpose|switch
+
 Running (JUST GUESSING): Oracle Virtualbox (96%), QEMU (91%), Bay Networks embedded (86%)
+
 OS CPE: cpe:/o:oracle:virtualbox cpe:/a:qemu:qemu cpe:/h:baynetworks:baystack_450
+
 Aggressive OS guesses: Oracle Virtualbox (96%), QEMU user mode network gateway (91%), Bay Networks BayStack 450 switch (software version 3.1.0.22) (86%)
 No exact OS matches for host (test conditions non-ideal).
 
