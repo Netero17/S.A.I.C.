@@ -37,9 +37,21 @@ Nmap done: 1 IP address (1 host up) scanned in 129.75 seconds
 ### found :
 - an encrypted zip file named Backup.zip on
   
-  cracked the password of Backup.zip 
+  cracked the password of Backup.zip using john
+  
+  `zip2john backup.zip > zip.hash`
+
+  `john --wordlist=/usr/share/wordlists/rockyou.txt zip.hash`
+
+  password came to be `freedom`
+  also the password was given in my secret pass
+
+  after cracking the zip file some how a text was transferred to file named backup-cred.mp3 
+  
 - lots of uri on robots.txt
-  on the inspectpage of one of the uri's `/nothing` in robots.txt found :
+  on the inspectpage of one of the uri's `/nothing` in robots.txt
+
+  found :
 `#my secret pass
 xenia
 tux
@@ -48,9 +60,24 @@ password
 diana
 helloworld!
 iloveroot`
+
 ![image](https://github.com/Netero17/S.A.I.C./assets/126668078/c7759aea-610c-4bc5-8df0-45795f4accbf)
 
-  
-  
-  
-  
+
+after `cat backup-cred.mp3` i found the following:
+![image](https://github.com/Netero17/S.A.I.C./assets/126668078/b0b02b7f-eee9-441d-8934-c4402b0613f1)
+
+i found an uri to redirected me to **playsms website** 
+![image](https://github.com/Netero17/S.A.I.C./assets/126668078/80b7d484-e52b-46d0-8729-70049218600c)
+
+
+with a login userid - `touhid` and password was one of the my secret pass in robots.txt password -`diana`
+![image](https://github.com/Netero17/S.A.I.C./assets/126668078/0b4059ae-11e4-4e34-a69d-6ee3e391cb26)
+
+
+after taht i tries to find some vulnerability but no luck and no time was left 
+
+that's all from side sorry couldn't complete the challange
+mylearning outcome 
+
+everything i know about networking, hosting, local host, ports, network mapping and many more concepts along the way. learned to use password cracking tools like hydra john and also learned to usse burpsuite for web exploit. I don't even remember how much have i learned in this test.
